@@ -9,10 +9,6 @@ Right now I'm working on school projects🏫 and my own long-term ideas🧠.
 
 My main languages & frameworks are **C#**, **.NET**, **ASP.NET Core**, and **Blazor**.
 
-I might wanna learn Python and other technologies in the future,  
-but for now I'm focused on mastering the tools that truly excite me.
-
-
 ### ✧ About Me ✧
 INFJ • 4w5 • Night Owl  
 I enjoy deep conversations, quiet creativity, and building small but meaningful tools.
@@ -25,3 +21,9 @@ I enjoy deep conversations, quiet creativity, and building small but meaningful 
 ![.NET](https://img.shields.io/badge/.NET-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+
+### ✧ What i want to learn ✧
+![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=for-the-badge)
+![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=for-the-badge)
+![Node.js Badge](https://img.shields.io/badge/Node.js-5FA04E?logo=nodedotjs&logoColor=fff&style=for-the-badge)
